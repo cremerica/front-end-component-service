@@ -1,0 +1,10 @@
+openapi: 3.0.1
+info:
+  title: Front End Component Service
+  x-cortex-tag: front-end-component-service
+  x-cortex-git:
+    github:
+      repository: cremerica/front-end-component-service
+  x-cortex-custom-metadata:
+    cortex-template-version: 1.0
+    cortex-generated-timestamp: 2024-04-23T20:27:05.139011104
