@@ -1,8 +1,1 @@
-{
-  "Name": "Config",
-  "Version": 1.0,
-  "Data":[{
-    "field1": "value1",
-    "field2": "value2"
-  }]
-}
+{Name=Config, Version=1.0, Data=[{field1=value1, field2=value2}, {field3=value3}]}
