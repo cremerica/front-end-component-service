@@ -1,1 +1,8 @@
-actions.transform.outputs.result|tojson|tojson
+{
+  "Name": "Config",
+  "Version": 1.0,
+  "Data":[{
+    "field1": "value1",
+    "field2": "value2"
+  }]
+}
